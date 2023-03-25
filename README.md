@@ -1,7 +1,8 @@
 # diffusion
-去噪扩散概率模型\n
+去噪扩散概率模型
 ## Requirements
-```torch
+```
+torch
 torchvision
 tqdm
 ```
