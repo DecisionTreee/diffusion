@@ -2,7 +2,7 @@
 去噪扩散概率模型
 ## Requirements
 ```
-torch
-torchvision
-tqdm
+pip install torch
+pip install torchvision
+pip install tqdm
 ```
